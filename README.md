@@ -1,6 +1,6 @@
 # My boss powerd by ChatGPT and Slack App
 
-![](https://img.shields.io/badge/node-16    -green)
+![](https://img.shields.io/badge/node-16-green)
 
 ## Reference
 https://qiita.com/Yuki_Oshima/items/112e69df63df9958709f
