@@ -25,5 +25,3 @@ npm run build
 ```bash
 zip deploy_package.zip ./dist/bundle.js
 ```
-
-https://ap-northeast-1.console.aws.amazon.com/lambda/home?region=ap-northeast-1#/functions/my-ai-boss
